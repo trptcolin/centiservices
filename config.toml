@@ -2,6 +2,7 @@ baseURL = "http://centiservices.com/"
 languageCode = "en-us"
 title = "Centiservices"
 theme = "detox"
+publishDir = "docs"
 
 [params]
   author = "Colin Jones"
