@@ -1,4 +1,4 @@
-baseURL = "http://centiservices.com/"
+baseURL = "https://trptcolin.github.io/centiservices/"
 languageCode = "en-us"
 title = "Centiservices"
 theme = "detox"
