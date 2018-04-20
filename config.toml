@@ -1,4 +1,4 @@
-baseURL = "https://centiservices.com"
+baseURL = "http://centiservices.com"
 languageCode = "en-us"
 title = "Centiservices"
 theme = "detox"
