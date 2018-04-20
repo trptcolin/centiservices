@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Centiservices</title>
-    <link>https://trptcolin.github.io/centiservices/</link>
+    <link>https://centiservices.com/</link>
     <description>Recent content on Centiservices</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://trptcolin.github.io/centiservices/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://centiservices.com/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
