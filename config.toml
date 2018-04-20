@@ -1,4 +1,10 @@
-baseURL = "http://example.org/"
+baseURL = "http://centiservices.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Centiservices"
 theme = "detox"
+
+[params]
+  author = "Colin Jones"
+  twitter_name = "trptcolin"
+  github = "trptcolin/centiservices"
+  description = "10,000 times better than microservices"
