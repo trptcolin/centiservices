@@ -12,11 +12,11 @@
           {{ with .Site.Params.github }}
             <a href="https://www.github.com/{{ . }}" title="GitHub" target="_blank"><span class="tooltip"><i class="fa fa-github"></i></span></a>
           {{ end }}
-          <a href="{{ .Site.BaseURL }}index.xml" title="Get the RSS feed"><span class="tooltip"><i class="fa fa-rss"></i></span></a>
+          <a href="/index.xml" title="Get the RSS feed"><span class="tooltip"><i class="fa fa-rss"></i></span></a>
         </div>
     </footer>
 
-    <script type="text/javascript" src="{{ .Site.BaseURL }}js/fittext.js"></script>
+    <script type="text/javascript" src="/js/fittext.js"></script>
     <script type="text/javascript">
       $(".heading").fitText();
     </script>
